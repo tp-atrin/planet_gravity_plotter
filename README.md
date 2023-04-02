@@ -33,5 +33,10 @@ python planet_gravity_plotter.py
 
 5. The graph will be displayed in a new window.
 
+### Example Result
+Suppose you run the script and enter "Mars" as the planet you want to plot the graph for. Here's what the resulting graph might look like:
+
+As you can see, the gravitational force on a spaceship decreases as it gets farther away from Mars. This is because the force of gravity decreases with the square of the distance between two objects.
+
 ## Contributing
 If you find a bug or have a suggestion for improving the script, feel free to submit an issue or pull request.
